@@ -10,4 +10,4 @@ I'm mostly active within the Solana developer community, currently maintaining t
 
 and last but not least, focused on shipping the most kickass web3 experiences with [Project Citadel](https://devpost.com/software/project-citadel), which won the Web3 Track at the Solana Ignition Hackathon.
 
-The easiest way to find me talking about non-tech stuff is probably at [@hoaktrades](https://twitter.com/hoaktrades).
+The easiest way to find me talking about non-tech stuff is probably at [@hoakbuilds](https://twitter.com/hoakbuilds).
